@@ -39,15 +39,12 @@ Cada usuário cadastrado possui um perfil único onde pode gerenciar:
 
 - **Dados pessoais**: Nome, email, e informações de contato.
 - **Histórico de Compras**: Histórico detalhado de compras passadas, permitindo reordens e revisões.
-- **Preferências de Produtos**: Possibilidade de salvar itens para compras futuras.
 
 ### 6. Painel Administrativo
 O sistema oferece um painel administrativo, acessível apenas para administradores, onde é possível:
 
 - **Gerenciar Produtos**: Adicionar, editar ou remover produtos do catálogo.
-- **Gerenciar Usuários**: Visualizar, atualizar ou remover perfis de usuários.
-- **Visualizar Pedidos**: Gerenciar e acompanhar os pedidos feitos pelos usuários.
-
+  
 ## Requisitos de Instalação
 
 ### 1. Clone o repositório:
