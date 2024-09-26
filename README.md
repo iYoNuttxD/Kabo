@@ -10,12 +10,12 @@ Este projeto tem como objetivo proporcionar uma experiência interativa e eficie
 - **Carrinho de Compras** para facilitar o processo de compra online.
 - **Sistema de Cadastro e Login** para acesso personalizado.
 - **Painel Administrativo** para gestão de produtos e usuários.
-- **Perfis de Usuários** com histórico de compras e preferências de produtos.
+- **Perfis de Usuários** com histórico de compras.
 
 ## Funcionalidades Principais
 
 ### 1. Sistema de Cadastro e Login
-Os usuários podem criar uma conta e fazer login através de um sistema de autenticação seguro. Uma vez autenticado, o usuário tem acesso a um perfil personalizado, onde pode gerenciar suas informações pessoais, histórico de compras histórico de produtos.
+Os usuários podem criar uma conta e fazer login através de um sistema de autenticação seguro. Uma vez autenticado, o usuário tem acesso a um perfil personalizado, onde pode gerenciar suas informações pessoais e histórico de compras.
 
 ### 2. Carrinho de Compras
 O carrinho permite que os usuários adicionem produtos durante a navegação no site e revisem os itens antes de finalizar a compra. O sistema calcula o total da compra automaticamente e suporta atualizações de quantidades e remoção de itens.
