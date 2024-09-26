@@ -1,5 +1,3 @@
----
-
 # Kabo
 
 **Kabo** é uma plataforma voltada para a venda de produtos de tecnologia, com foco em hardware, periféricos e acessórios eletrônicos. O sistema oferece funcionalidades de e-commerce, como gestão de produtos, carrinho de compras, perfil de usuários, busca e um painel administrativo. 
@@ -54,7 +52,7 @@ O sistema oferece um painel administrativo, acessível apenas para administrador
 
 ### 1. Clone o repositório:
 ```bash
-git clone https://github.com/usuario/kabo.git
+git clone https://github.com/iYoNuttxD/Kabo
 ```
 
 ### 2. Configuração do Servidor Local:
@@ -86,4 +84,3 @@ http://localhost/kabo/index.php
 - **MySQL**: Banco de dados utilizado para armazenar informações dos produtos, usuários e pedidos.
 - **HTML5/CSS3**: Utilizados para a estruturação e estilização das páginas do site.
 - **JavaScript**: Responsável pelas interações dinâmicas, como validação de formulários e manipulação do DOM.
----
