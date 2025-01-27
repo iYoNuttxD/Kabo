@@ -17,8 +17,12 @@ Este projeto tem como objetivo proporcionar uma experiência interativa e eficie
 ### 1. Sistema de Cadastro e Login
 Os usuários podem criar uma conta e fazer login através de um sistema de autenticação seguro. Uma vez autenticado, o usuário tem acesso a um perfil personalizado, onde pode gerenciar suas informações pessoais e histórico de compras.
 
+![image](https://github.com/user-attachments/assets/115c6100-102c-42ae-9bb6-93366f84be13)
+
 ### 2. Carrinho de Compras
 O carrinho permite que os usuários adicionem produtos durante a navegação no site e revisem os itens antes de finalizar a compra. O sistema calcula o total da compra automaticamente e suporta atualizações de quantidades e remoção de itens.
+
+![image](https://github.com/user-attachments/assets/3163373d-86d0-45e5-be2f-8004cc475991)
 
 ### 3. Catálogo de Produtos
 O site apresenta um catálogo detalhado, categorizado por tipo de hardware e periféricos. Entre os principais produtos, estão listados:
@@ -31,8 +35,12 @@ O site apresenta um catálogo detalhado, categorizado por tipo de hardware e per
 
 Cada categoria de produtos possui páginas dedicadas com descrições detalhadas e imagens.
 
+![image](https://github.com/user-attachments/assets/b93c04ff-3f8d-49d8-b245-8d739b3f9ff6)
+
 ### 4. Busca de Produtos
 Os usuários podem procurar produtos utilizando a barra de busca, que filtra os resultados com base em palavras-chave ou categorias, facilitando a navegação pelo inventário de hardware e periféricos.
+
+![image](https://github.com/user-attachments/assets/05737197-4707-45bd-8861-8c25c0c86c02)
 
 ### 5. Perfis de Usuários Personalizados
 Cada usuário cadastrado possui um perfil único onde pode gerenciar:
@@ -40,10 +48,14 @@ Cada usuário cadastrado possui um perfil único onde pode gerenciar:
 - **Dados pessoais**: Nome, email, e informações de contato.
 - **Histórico de Compras**: Histórico detalhado de compras passadas, permitindo reordens e revisões.
 
+![image](https://github.com/user-attachments/assets/3fd99890-f731-4931-bd9b-5c92b07b7da3)
+
 ### 6. Painel Administrativo
 O sistema oferece um painel administrativo, acessível apenas para administradores, onde é possível:
 
 - **Gerenciar Produtos**: Adicionar, editar ou remover produtos do catálogo.
+
+![image](https://github.com/user-attachments/assets/59dd11aa-a43c-4eea-8253-d324ca41407f)
   
 ## Requisitos de Instalação
 
@@ -72,7 +84,7 @@ git clone https://github.com/iYoNuttxD/Kabo
 ### 4. Inicie o Servidor:
 Acesse o projeto através do navegador usando:
 ```bash
-http://localhost/kabo/index.php
+http://localhost/kabo/
 ```
 
 ## Tecnologias Utilizadas
