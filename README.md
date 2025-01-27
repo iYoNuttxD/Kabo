@@ -40,7 +40,7 @@ Cada categoria de produtos possui páginas dedicadas com descrições detalhadas
 ### 4. Busca de Produtos
 Os usuários podem procurar produtos utilizando a barra de busca, que filtra os resultados com base em palavras-chave ou categorias, facilitando a navegação pelo inventário de hardware e periféricos.
 
-![image](https://github.com/user-attachments/assets/05737197-4707-45bd-8861-8c25c0c86c02)
+![image](https://github.com/user-attachments/assets/a0b9b889-04d8-436f-9fba-071d2000e301)
 
 ### 5. Perfis de Usuários Personalizados
 Cada usuário cadastrado possui um perfil único onde pode gerenciar:
