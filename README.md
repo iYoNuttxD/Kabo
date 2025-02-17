@@ -15,7 +15,7 @@ Este projeto tem como objetivo proporcionar uma experiência interativa e eficie
 ## Premiação
 O projeto Kabo foi premiado com 1º lugar na categoria de voto popular em um concurso de desenvolvimento de web, realizado na Pontifícia Universidade Católica do Paraná (PUC-PR), reconhecendo sua inovação e qualidade técnica.
 
-[KABO_Certificado_2024_1.pdf](https://github.com/user-attachments/files/18826715/KABO_Certificado_2024_1.pdf)
+![image](https://github.com/user-attachments/assets/e6e313d4-12c9-47f4-ad32-92d7c4cc9826)
 
 ## Funcionalidades Principais
 
