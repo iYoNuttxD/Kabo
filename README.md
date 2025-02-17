@@ -12,6 +12,11 @@ Este projeto tem como objetivo proporcionar uma experiência interativa e eficie
 - **Painel Administrativo** para gestão de produtos e usuários.
 - **Perfis de Usuários** com histórico de compras.
 
+## Premiação
+O projeto Kabo foi premiado com 1º lugar na categoria de voto popular em um concurso de desenvolvimento de web, realizado na Pontifícia Universidade Católica do Paraná (PUC-PR), reconhecendo sua inovação e qualidade técnica.
+
+[KABO_Certificado_2024_1.pdf](https://github.com/user-attachments/files/18826715/KABO_Certificado_2024_1.pdf)
+
 ## Funcionalidades Principais
 
 ### 1. Sistema de Cadastro e Login
